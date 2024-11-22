@@ -1,0 +1,38 @@
+{
+  "term": "Fall",
+  "year": "2024",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "98b52561-0767-45bc-a2cf-45908bec02e0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b1516ed9-0df9-4b80-ae47-bc8211173fad",
+    "website": "mit-project-on-embodied-education"
+  },
+  "course_title": "MIT Project on Embodied Education",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "The MIT Project on Embodied Education aims to close the gap between the growing body of research on movement and the learning process and the pedagogical strategies that educators use, finding ways to integrate physical activity and academic instruction at all levels\u2014for example, teaching elementary school math through yoga, middle school physics through martial arts, high school science through swimming, and college history through dance.",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.STS-001",
+  "learning_resource_types": [
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "cd1db6ce-9272-48b5-a2d4-1ff6297456b3",
+  "site_short_id": "res.sts-001-fall-2024"
+}

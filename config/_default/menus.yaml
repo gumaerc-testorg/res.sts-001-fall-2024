@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 72e1e0d7-1c2d-42a0-8af1-400767a4fe55
+  name: Embodied Education Home Page
+  pageRef: /external-resources/embodied-education-page
+  weight: 10
