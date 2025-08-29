@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/mit-project-on-embodied-education/mitres_sts_001_f24.jpg
+file: /ol-ocw-studio-app/courses/res-sts-001-mit-project-on-embodied-education-fall-2024/mitres_sts_001_f24.jpg
 file_size: 302428
 file_type: image/jpeg
 image_metadata:
